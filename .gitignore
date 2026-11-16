@@ -1,0 +1,9 @@
+node_modules/
+.render.cjs
+.sites-local/
+checks/
+dist/
+.env
+.env.*
+*.key
+*.pem
